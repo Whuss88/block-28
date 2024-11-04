@@ -1,0 +1,1 @@
+This site demos a color picker in a SPA.
